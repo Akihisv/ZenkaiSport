@@ -1,6 +1,6 @@
-# WordPress Boilerplate
+# Zenkai Sport
 
-Boilerplate WordPress avec Docker, Composer et Make pour un développement rapide et reproductible.
+Zenkai Sport avec Docker, Composer et Make pour un développement rapide et reproductible.
 
 ## Démarrage rapide
 
