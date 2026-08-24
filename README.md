@@ -1,4 +1,4 @@
-# CodePhenix WordPress Boilerplate
+# WordPress Boilerplate
 
 Boilerplate WordPress avec Docker, Composer et Make pour un développement rapide et reproductible.
 
